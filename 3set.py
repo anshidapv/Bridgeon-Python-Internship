@@ -1,0 +1,12 @@
+s={1,2,3,4,5}
+s1={2,3,4,5,6}
+print(s)
+s.remove(2)
+print(s)
+unique=set(s)
+print(unique)
+s.add(4)
+print(s)
+print(s|s1)
+print(s&s1)
+print(s-s1)
