@@ -1,0 +1,11 @@
+numbers=[]
+for i in range(5):
+    numbers.append(i)
+    print(numbers)
+    squares=[]
+    for i in range(1,6):
+        squares.append(i)
+        print(squares)
+t=(1,2,3,4)
+print(t)
+set
