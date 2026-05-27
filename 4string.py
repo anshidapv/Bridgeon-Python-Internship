@@ -1,0 +1,16 @@
+name="alice"
+print(name[0])
+print(name[-1])
+print(name[:3])
+print(name[0:4])
+age=19
+print(f"my name is {name} and iam {age} years old")
+print(name.upper())
+print(name.lower())
+print(name.strip())
+print(name.replace("a","s"))
+print(name.split())
+print(" ".join(name))
+print(name.find("li"))    
+print(name.count("ce"))
+print(name.startswith("a"))
