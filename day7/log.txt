@@ -1,0 +1,7 @@
+2026-06-03 20:12:33 | add | args=(10, 20), kwargs={}
+2026-06-03 20:12:33 | add | args=(5, 7), kwargs={}
+2026-06-03 20:12:33 | greet | args=('Alice',), kwargs={}
+2026-06-03 20:12:33 | greet | args=('Bob',), kwargs={}
+2026-06-03 20:12:33 | multiply | args=(3, 4), kwargs={}
+2026-06-03 20:12:33 | multiply | args=(6, 8), kwargs={}
+2026-06-03 20:12:33 | multiply | args=(2, 5), kwargs={}
